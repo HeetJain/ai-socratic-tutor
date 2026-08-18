@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Ai-socratic-tutor")
-st.write("[bold]your own friendly neighbourhood Lupa ")
+st.write("your own friendly neighbourhood Lupa ")
 st.write("Namaste Duniya")
 input = st.chat_input("Type Your message here")
 
