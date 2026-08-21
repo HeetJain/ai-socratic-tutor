@@ -1,7 +1,8 @@
 import streamlit as st
-
-st.title("Ai-socratic-tutor")
-st.write("[bold]your own friendly neighbourhood Lupa ")
+import requests
+st.set_page_config("AI education tutor for students in multilingual language")
+st.title("Ai-socratic-tutor ;)")
+st.markdown("##### your own friendly neighbourhood Lupa ")
 st.write("Namaste Duniya")
 
 if "message" not in st.session_state:
