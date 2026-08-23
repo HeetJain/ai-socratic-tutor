@@ -18,7 +18,7 @@ Luna is an AI-powered educational assistant designed to solve a core flaw in mod
 
 * **Frontend UI:** Streamlit (Python)
 * **Orchestration & RAG Pipeline:** Dify.ai
-* **LLM Engine:** Gemini 2.5 Flash
+* **LLM Engine:** Gemini 3.5 Flash lite
 * **Vector Knowledge Base:** Chunked & embedded curriculum text
 
 ---
