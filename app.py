@@ -10,7 +10,7 @@ if menu == "🎓 Student Tutor":
     url = "https://api.dify.ai/v1/chat-messages"
 
     headers={   
-        "Authorization": "Bearer app-mekNBLa1G4oFbLCwY7u6bv8P",
+        "Authorization": "Bearer app-ThtPFsvxXQLnpLDjXtCZBnMx",
        "Content-type" : "application/json"
     }
 
